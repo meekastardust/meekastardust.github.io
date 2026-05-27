@@ -1,8 +1,8 @@
 {
 	"NumberOfCommunityPictures": 18,
-	"TimeBetweenImages": 60,
-	"UFO Wait": 180,
-	"UFO Chance": 0.1,
+	"TimeBetweenImages": 15,
+	"UFO Wait": 10,
+	"UFO Chance": 1.0,
 	"HeidiLocations": [
 		16.32263,
 		0.00840001,
